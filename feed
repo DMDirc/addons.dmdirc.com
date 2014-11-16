@@ -64,7 +64,6 @@ keysections:
   addon_72
   addon_73
   addon_74
-
 addon_1:
   id=1
   type=plugin
@@ -75,12 +74,7 @@ addon_1:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=1/STABLE
-  unstable=1/UNSTABLE
-  nightly=1/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/DCOP_Plugin.jar
 addon_2:
   id=2
   type=plugin
@@ -89,14 +83,9 @@ addon_2:
   description=The lag display plugin displays your current ping (the time it takes for data to go from DMDirc, to your IRC server, and back again) in the DMDirc status bar.
   user=Chris
   verified=yes
-  screenshot=yes
+  screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=2/STABLE
-  unstable=2/UNSTABLE
-  nightly=2/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/Lag_Display_Plugin.jar
 addon_3:
   id=3
   type=plugin
@@ -105,14 +94,9 @@ addon_3:
   description=The on screen display plugin allows you to display popup notifications (in a configurable position) using the /osd command.
   user=Chris
   verified=yes
-  screenshot=yes
+  screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=3/STABLE
-  unstable=3/UNSTABLE
-  nightly=3/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/On_Screen_Display_Plugin.jar
 addon_4:
   id=4
   type=plugin
@@ -123,12 +107,7 @@ addon_4:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=4/STABLE
-  unstable=4/UNSTABLE
-  nightly=4/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/Redirect_Plugin.jar
 addon_5:
   id=5
   type=plugin
@@ -137,14 +116,9 @@ addon_5:
   description=The systray plugin adds a DMDirc icon to your window manager's system/notification tray. You can use the system tray icon to hide the main DMDirc window, and it can also be used to display notifications (via a /popup command). The plugin can also be configured to automatically hide the DMDirc window whenever it's minimised.
   user=Chris
   verified=yes
-  screenshot=yes
+  screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=5/STABLE
-  unstable=5/UNSTABLE
-  nightly=5/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/Systray_Plugin.jar
 addon_6:
   id=6
   type=plugin
@@ -155,12 +129,7 @@ addon_6:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=6/STABLE
-  unstable=6/UNSTABLE
-  nightly=6/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/Time_Plugin.jar
 addon_7:
   id=7
   type=action
@@ -169,13 +138,8 @@ addon_7:
   description=
   user=Chris
   verified=yes
-  screenshot=yes
+  screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=7/STABLE
-  nightly=7/NIGHTLY
-
 addon_8:
   id=8
   type=plugin
@@ -184,14 +148,8 @@ addon_8:
   description=Provides a /nowplaying command that shows the song that's currently playing in your media player. Requires a media source plugin to retrieve the information from the media player.
   user=Greboid
   verified=yes
-  screenshot=yes
+  screenshot=no
   rating=10
-  stable=
-  unstable=
-  stable=8/STABLE
-  unstable=8/UNSTABLE
-  nightly=8/NIGHTLY
-
 addon_9:
   id=9
   type=plugin
@@ -200,14 +158,9 @@ addon_9:
   description=Provides media sources for the nowplaying plugin for Noatun, Amarok and Kaffeine.
   user=Greboid
   verified=yes
-  screenshot=yes
+  screenshot=no
   rating=8
-  stable=
-  unstable=
-  stable=9/STABLE
-  unstable=9/UNSTABLE
-  nightly=9/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/Media_Sources_-_Linux.jar
 addon_10:
   id=10
   type=plugin
@@ -216,14 +169,9 @@ addon_10:
   description=
   user=Greboid
   verified=yes
-  screenshot=yes
+  screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=10/STABLE
-  unstable=10/UNSTABLE
-  nightly=10/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/DNS.jar
 addon_11:
   id=11
   type=action
@@ -232,13 +180,8 @@ addon_11:
   description=This action pack makes queries change their colour in the treeview when something is said.
   user=Shane
   verified=yes
-  screenshot=yes
+  screenshot=no
   rating=8
-  stable=
-  unstable=
-  stable=11/STABLE
-  nightly=11/NIGHTLY
-
 addon_12:
   id=12
   type=plugin
@@ -247,14 +190,9 @@ addon_12:
   description=Allows automatic colouring of nicknames
   user=Chris
   verified=yes
-  screenshot=yes
+  screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=12/STABLE
-  unstable=12/UNSTABLE
-  nightly=12/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/Nick_Colours.jar
 addon_13:
   id=13
   type=plugin
@@ -263,14 +201,9 @@ addon_13:
   description=This plugin adds a panel to the status bar showing some information about the window you are currently looking at.
   user=Shane
   verified=yes
-  screenshot=yes
+  screenshot=no
   rating=6
-  stable=
-  unstable=
-  stable=13/STABLE
-  unstable=13/UNSTABLE
-  nightly=13/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/Window_status.jar
 addon_14:
   id=14
   type=plugin
@@ -281,12 +214,7 @@ addon_14:
   verified=yes
   screenshot=no
   rating=7
-  stable=
-  unstable=
-  stable=14/STABLE
-  unstable=14/UNSTABLE
-  nightly=14/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/Audio.jar
 addon_15:
   id=15
   type=plugin
@@ -297,12 +225,7 @@ addon_15:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=15/STABLE
-  unstable=15/UNSTABLE
-  nightly=15/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/Ident.jar
 addon_16:
   id=16
   type=plugin
@@ -311,14 +234,9 @@ addon_16:
   description=This plugin allows dmdirc to create log files of channel/query activity. You can also view the past logs from inside the client.
   user=Shane
   verified=yes
-  screenshot=yes
+  screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=16/STABLE
-  unstable=16/UNSTABLE
-  nightly=16/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/Logging.jar
 addon_17:
   id=17
   type=plugin
@@ -329,10 +247,6 @@ addon_17:
   verified=yes
   screenshot=no
   rating=4
-  stable=
-  unstable=
-  stable=17/STABLE
-
 addon_19:
   id=19
   type=action
@@ -343,10 +257,6 @@ addon_19:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=19/STABLE
-
 addon_20:
   id=20
   type=theme
@@ -355,13 +265,8 @@ addon_20:
   description=Replaces DMDirc's icons with those from the BersIRC client
   user=Chris
   verified=yes
-  screenshot=yes
+  screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=20/STABLE
-  unstable=20/UNSTABLE
-
 addon_21:
   id=21
   type=plugin
@@ -372,12 +277,6 @@ addon_21:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=21/STABLE
-  unstable=21/UNSTABLE
-  nightly=21/NIGHTLY
-
 addon_22:
   id=22
   type=theme
@@ -386,13 +285,8 @@ addon_22:
   description=A theme for DMDirc based on a black background.
   user=Shane
   verified=yes
-  screenshot=yes
+  screenshot=no
   rating=2
-  stable=
-  unstable=
-  stable=22/STABLE
-  unstable=22/UNSTABLE
-
 addon_23:
   id=23
   type=plugin
@@ -403,12 +297,7 @@ addon_23:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=23/STABLE
-  unstable=23/UNSTABLE
-  nightly=23/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/DCC_Plugin.jar
 addon_24:
   id=24
   type=plugin
@@ -419,12 +308,7 @@ addon_24:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=24/STABLE
-  unstable=24/UNSTABLE
-  nightly=24/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/Media_Source_-_VLC.jar
 addon_25:
   id=25
   type=plugin
@@ -435,12 +319,6 @@ addon_25:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=25/STABLE
-  unstable=25/UNSTABLE
-  nightly=25/NIGHTLY
-
 addon_27:
   id=27
   type=plugin
@@ -451,12 +329,6 @@ addon_27:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=27/STABLE
-  unstable=27/UNSTABLE
-  nightly=27/NIGHTLY
-
 addon_28:
   id=28
   type=plugin
@@ -467,12 +339,7 @@ addon_28:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=28/STABLE
-  unstable=28/UNSTABLE
-  nightly=28/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/Media_Source_-_MPlayer.jar
 addon_29:
   id=29
   type=plugin
@@ -481,14 +348,8 @@ addon_29:
   description=Provides a web-based UI for DMDirc.
   user=Chris
   verified=yes
-  screenshot=yes
+  screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=29/STABLE
-  unstable=29/UNSTABLE
-  nightly=29/NIGHTLY
-
 addon_30:
   id=30
   type=plugin
@@ -499,12 +360,7 @@ addon_30:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=30/STABLE
-  unstable=30/UNSTABLE
-  nightly=30/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/Media_Sources_-_Windows.jar
 addon_33:
   id=33
   type=plugin
@@ -515,12 +371,7 @@ addon_33:
   verified=no
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=33/STABLE
-  unstable=33/UNSTABLE
-  nightly=33/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/Scripting_Plugin.jar
 addon_34:
   id=34
   type=plugin
@@ -529,13 +380,8 @@ addon_34:
   description=Adds spell checking support to window input fields. Uses the jOrtho library. Licensed under the Gnu GPL; source code included.
   user=Chris
   verified=yes
-  screenshot=yes
+  screenshot=no
   rating=10
-  stable=
-  unstable=
-  stable=34/STABLE
-  unstable=34/UNSTABLE
-
 addon_35:
   id=35
   type=action
@@ -544,13 +390,8 @@ addon_35:
   description=Changes the colour of a user's nickname in the nicklist when they are marked as away.\n\nFor DMDirc to reliably detect away state, you need to enable the channel.sendwho setting for the channel or server you want to monitor (or globally). To see colours in the nicklist you need to enable the ui.shownickcoloursinnicklist setting. These settings can both be found in the preferences dialog ('General' and 'UI' categories respectively) or in the channel and server settings dialogs.
   user=Chris
   verified=yes
-  screenshot=yes
+  screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=35/STABLE
-  unstable=35/UNSTABLE
-
 addon_36:
   id=36
   type=plugin
@@ -559,13 +400,8 @@ addon_36:
   description=Allows you to search your input history, in a manner similar to Bash's reverse-i-search. With the plugin loaded, hit ctrl+r in a text field and enter the search term.
   user=Chris
   verified=yes
-  screenshot=yes
+  screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=36/STABLE
-  unstable=36/UNSTABLE
-
 addon_37:
   id=37
   type=plugin
@@ -576,12 +412,7 @@ addon_37:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=37/STABLE
-  unstable=37/UNSTABLE
-  nightly=37/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/Calculator_plugin.jar
 addon_38:
   id=38
   type=plugin
@@ -590,13 +421,8 @@ addon_38:
   description=Shows an inline diff of topic changes.
   user=Chris
   verified=yes
-  screenshot=yes
+  screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=38/STABLE
-  unstable=38/UNSTABLE
-
 addon_39:
   id=39
   type=plugin
@@ -607,12 +433,7 @@ addon_39:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=39/STABLE
-  unstable=39/UNSTABLE
-  nightly=39/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/Media_Source_-_DBus.jar
 addon_40:
   id=40
   type=plugin
@@ -623,11 +444,6 @@ addon_40:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=40/STABLE
-  unstable=40/UNSTABLE
-
 addon_41:
   id=41
   type=plugin
@@ -638,12 +454,6 @@ addon_41:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=41/STABLE
-  unstable=41/UNSTABLE
-  nightly=41/NIGHTLY
-
 addon_42:
   id=42
   type=plugin
@@ -654,12 +464,7 @@ addon_42:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=42/STABLE
-  unstable=42/UNSTABLE
-  nightly=42/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/User_Interface_-_Swing.jar
 addon_43:
   id=43
   type=plugin
@@ -670,12 +475,7 @@ addon_43:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=43/STABLE
-  unstable=43/UNSTABLE
-  nightly=43/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/Tab_Completion_-_Bash_Style.jar
 addon_44:
   id=44
   type=plugin
@@ -686,12 +486,7 @@ addon_44:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=44/STABLE
-  unstable=44/UNSTABLE
-  nightly=44/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/Tab_Completion_-_mIRC_Style.jar
 addon_47:
   id=47
   type=plugin
@@ -702,11 +497,6 @@ addon_47:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=47/STABLE
-  unstable=47/UNSTABLE
-
 addon_48:
   id=48
   type=plugin
@@ -717,12 +507,6 @@ addon_48:
   verified=yes
   screenshot=no
   rating=8
-  stable=
-  unstable=
-  stable=48/STABLE
-  unstable=48/UNSTABLE
-  nightly=48/NIGHTLY
-
 addon_49:
   id=49
   type=plugin
@@ -731,14 +515,8 @@ addon_49:
   description=Allow accessing twitter from DMDirc.\n\nThis plugin currently requires a DMDirc nightly to work.\n\nThis plugin is experimental and may break at any time.
   user=Shane
   verified=yes
-  screenshot=yes
+  screenshot=no
   rating=8
-  stable=
-  unstable=
-  stable=49/STABLE
-  unstable=49/UNSTABLE
-  nightly=49/NIGHTLY
-
 addon_50:
   id=50
   type=plugin
@@ -747,14 +525,8 @@ addon_50:
   description=This is a plugin that will make certain relay bots integrate into IRC Channels a bit better.\n\nCurrently this only works on the "DMDirc" relay bot in #DMDirc on various networks, and the "IRelayBot" for #IRCReport.\n\nThis plugin currently requires a DMDirc nightly to work.\n\nUpdated 16/08/09\:\n- Reworked how the plugin works so as to prevent duplicate lines being logged, or actions triggering on lines twice.\n- Events such as join/part/quit/kick/nick change are all now handled as real events rather than actions
   user=Shane
   verified=yes
-  screenshot=yes
+  screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=50/STABLE
-  unstable=50/UNSTABLE
-  nightly=50/NIGHTLY
-
 addon_26:
   id=26
   type=plugin
@@ -765,12 +537,6 @@ addon_26:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=26/STABLE
-  unstable=26/UNSTABLE
-  nightly=26/NIGHTLY
-
 addon_55:
   id=55
   type=plugin
@@ -781,12 +547,6 @@ addon_55:
   verified=yes
   screenshot=no
   rating=0
-  stable=
-  unstable=
-  stable=55/STABLE
-  unstable=55/UNSTABLE
-  nightly=55/NIGHTLY
-
 addon_56:
   id=56
   type=action
@@ -797,10 +557,6 @@ addon_56:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  nightly=56/NIGHTLY
-
 addon_57:
   id=57
   type=plugin
@@ -811,12 +567,7 @@ addon_57:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=57/STABLE
-  unstable=57/UNSTABLE
-  nightly=57/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/IRC_Parser.jar
 addon_58:
   id=58
   type=plugin
@@ -827,12 +578,6 @@ addon_58:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=58/STABLE
-  unstable=58/UNSTABLE
-  nightly=58/NIGHTLY
-
 addon_59:
   id=59
   type=plugin
@@ -843,12 +588,6 @@ addon_59:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=59/STABLE
-  unstable=59/UNSTABLE
-  nightly=59/NIGHTLY
-
 addon_60:
   id=60
   type=plugin
@@ -859,12 +598,6 @@ addon_60:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=60/STABLE
-  unstable=60/UNSTABLE
-  nightly=60/NIGHTLY
-
 addon_61:
   id=61
   type=plugin
@@ -875,12 +608,7 @@ addon_61:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=61/STABLE
-  unstable=61/UNSTABLE
-  nightly=61/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/Notifications_Plugin.jar
 addon_62:
   id=62
   type=plugin
@@ -891,12 +619,7 @@ addon_62:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=62/STABLE
-  unstable=62/UNSTABLE
-  nightly=62/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/Debug.jar
 addon_63:
   id=63
   type=plugin
@@ -907,12 +630,7 @@ addon_63:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=63/STABLE
-  unstable=63/UNSTABLE
-  nightly=63/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/XMPP_Parser.jar
 addon_64:
   id=64
   type=plugin
@@ -923,12 +641,7 @@ addon_64:
   verified=yes
   screenshot=no
   rating=9
-  stable=
-  unstable=
-  stable=64/STABLE
-  unstable=64/UNSTABLE
-  nightly=64/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/Window_Flashing.jar
 addon_65:
   id=65
   type=plugin
@@ -939,12 +652,7 @@ addon_65:
   verified=no
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=65/STABLE
-  unstable=65/UNSTABLE
-  nightly=65/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/Exec_Plugin.jar
 addon_66:
   id=66
   type=plugin
@@ -955,12 +663,7 @@ addon_66:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=66/STABLE
-  unstable=66/UNSTABLE
-  nightly=66/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/Active_Window.jar
 addon_67:
   id=67
   type=plugin
@@ -969,14 +672,9 @@ addon_67:
   description=Adds a "Contact List" for all users in a channel by creating query windows in the background and tracking the users' away states.
   user=Chris
   verified=yes
-  screenshot=yes
+  screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=67/STABLE
-  unstable=67/UNSTABLE
-  nightly=67/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/Contact_List.jar
 addon_68:
   id=68
   type=plugin
@@ -987,10 +685,6 @@ addon_68:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  nightly=68/NIGHTLY
-
 addon_69:
   id=69
   type=plugin
@@ -1001,9 +695,6 @@ addon_69:
   verified=no
   screenshot=no
   rating=5
-  stable=
-  unstable=
-
 addon_70:
   id=70
   type=plugin
@@ -1014,12 +705,7 @@ addon_70:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=70/STABLE
-  unstable=70/UNSTABLE
-  nightly=70/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/Notify_My_Android.jar
 addon_71:
   id=71
   type=plugin
@@ -1030,12 +716,7 @@ addon_71:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=71/STABLE
-  unstable=71/UNSTABLE
-  nightly=71/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/Windows_Lock_Support.jar
 addon_72:
   id=72
   type=plugin
@@ -1046,12 +727,7 @@ addon_72:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=72/STABLE
-  unstable=72/UNSTABLE
-  nightly=72/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/OS_X_Integration.jar
 addon_73:
   id=73
   type=plugin
@@ -1062,12 +738,7 @@ addon_73:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=73/STABLE
-  unstable=73/UNSTABLE
-  nightly=73/NIGHTLY
-
+  stable=https://github.com/DMDirc/Plugins/releases/download/0.8/Conditional_Execution.jar
 addon_74:
   id=74
   type=plugin
@@ -1078,12 +749,7 @@ addon_74:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=74/STABLE
-  unstable=74/UNSTABLE
-  nightly=74/NIGHTLY
-
+  stable=E
 addon_75:
   id=75
   type=plugin
@@ -1094,8 +760,3 @@ addon_75:
   verified=yes
   screenshot=no
   rating=5
-  stable=
-  unstable=
-  stable=75/STABLE
-  unstable=75/UNSTABLE
-  nightly=75/NIGHTLY

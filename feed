@@ -64,6 +64,8 @@ keysections:
   addon_72
   addon_73
   addon_74
+  addon_75
+  addon_76
 addon_1:
   id=1
   type=plugin
@@ -755,7 +757,17 @@ addon_75:
   type=plugin
   date=1382713375
   title=Away Colours
-  description=
+  description=Sets colours for nicknames of users who are away
+  user=Greboid
+  verified=yes
+  screenshot=no
+  rating=5
+addon_76:
+  id=76
+  type=plugin
+  date=1382713375
+  title=Channel Whos
+  description=Sends whos to channels at set intervals and optionally notifies you of users away states
   user=Greboid
   verified=yes
   screenshot=no

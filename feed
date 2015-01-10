@@ -66,6 +66,7 @@ keysections:
   addon_74
   addon_75
   addon_76
+  addon_77
 addon_1:
   id=1
   type=plugin
@@ -768,6 +769,16 @@ addon_76:
   date=1382713375
   title=Channel Whos
   description=Sends whos to channels at set intervals and optionally notifies you of users away states
+  user=Greboid
+  verified=yes
+  screenshot=no
+  rating=5
+addon_77:
+  id=77
+  type=plugin
+  date=1420854931
+  title=Q Authentication
+  description=Manages Q authentication Quakenet
   user=Greboid
   verified=yes
   screenshot=no

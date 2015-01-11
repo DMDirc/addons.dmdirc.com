@@ -67,6 +67,7 @@ keysections:
   addon_75
   addon_76
   addon_77
+  addon_78
 addon_1:
   id=1
   type=plugin
@@ -779,6 +780,16 @@ addon_77:
   date=1420854931
   title=Q Authentication
   description=Manages Q authentication Quakenet
+  user=Greboid
+  verified=yes
+  screenshot=no
+  rating=5
+addon_78:
+  id=78
+  type=plugin
+  date=1421011760
+  title=Nick keep plugin
+  description=Keeps your primary nickname
   user=Greboid
   verified=yes
   screenshot=no

@@ -70,7 +70,6 @@ keysections:
   addon_78
   addon_79
   addon_80
-  addon_81
 addon_1:
   id=1
   type=plugin
@@ -808,16 +807,6 @@ addon_79:
   screenshot=no
   rating=5
 addon_80:
-  id=80
-  type=plugin
-  date=1421011760
-  title=Split mode plugin
-  description=Splits bulk mode changes to one per mode
-  user=Greboid
-  verified=yes
-  screenshot=no
-  rating=5
-addon_81:
   id=80
   type=plugin
   date=1421011760

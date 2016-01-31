@@ -70,6 +70,7 @@ keysections:
   addon_78
   addon_79
   addon_80
+  addon_81
 addon_1:
   id=1
   type=plugin
@@ -813,6 +814,16 @@ addon_80:
   title=Whois on query
   description=Whois the user when opening a new query
   user=Greboid
+  verified=yes
+  screenshot=no
+  rating=5
+addon_81:
+  id=81
+  type=plugin
+  date=1454252656
+  title=Web Interface 2
+  description=Provides a web-based UI for DMDirc.
+  user=Chris
   verified=yes
   screenshot=no
   rating=5
